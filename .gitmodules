@@ -1,0 +1,3 @@
+[submodule "SimpleUnityBehaviourTree"]
+	path = SimpleUnityBehaviourTree
+	url = https://github.com/konbraphat51/SimpleUnityBehaviourTree.git
